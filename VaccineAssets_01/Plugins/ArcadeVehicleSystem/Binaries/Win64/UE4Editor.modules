@@ -1,0 +1,8 @@
+{
+	"BuildId": "17155196",
+	"Modules": 
+	{
+		"ArcadeVehicleSystem": "UE4Editor-ArcadeVehicleSystem.dll",
+		"ArcadeVehicleSystemEditor": "UE4Editor-ArcadeVehicleSystemEditor.dll"
+	}
+}
